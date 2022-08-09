@@ -1,4 +1,4 @@
-DEMO: https://papaya-raindrop-0d2308.netlify.app/
+Demo: https://papaya-raindrop-0d2308.netlify.app/
 
 # Getting Started with Create React App
 
